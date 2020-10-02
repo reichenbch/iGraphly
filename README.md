@@ -1,6 +1,13 @@
 # iGraphly
 Implementation of Graph based algorithms with tutorials.
 
+## Objective :
+Build a consolidated repo and packgage for Graph based algorithms from all possible domains. 
+
+## Modules to be added :
+1) Visualization Modules
+2) Utility Module
+3) Storage Module (Reading/Writing Operations)
 
 ## Algorithms :
 
